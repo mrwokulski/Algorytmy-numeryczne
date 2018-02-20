@@ -2,16 +2,18 @@
 
 Numerical algorithms
 
-1) Approximation error comparison for different types of series additions in function sinus:
+1)Approximation error comparison for different types of series additions in function sinus:
 
 a)Taylor series with summing from n = 1 / Ascending n
 b)Taylor series with summing from n = 15 / Descending n
 c)Taylor series with summing n = (n+1)/n
 
 
+
 2)Linear problems solved using custom matrix body class with operators and Gauss,Gauss-Seidel,Jacobi algorithms + Eigen library.
 
 Work in progress.
+
 
 
 3)Solving complex probability matrices with different algorithms with testing method MonteCarlo.
@@ -24,9 +26,9 @@ Program is creating matrix of states from game's all possible moves and counting
 n - number of fields
 k - number of mushrooms placed
 
+
 4)Least-squares function approximation for time from solving linear problems: 
 Gauss,Gauss-Seidel,Jacobi algorithms as well as Eigen functions
 
 Using game from project 3 made without mushrooms, just possibilities of movement P1|P2 as data.
-
 
