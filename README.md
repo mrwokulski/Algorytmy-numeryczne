@@ -21,8 +21,7 @@ Numerical algorithms
     n - number of fields
     k - number of mushrooms placed
 
-4) Least-squares function approximation for time from solving linear problems: 
-Gauss,Gauss-Seidel,Jacobi algorithms as well as Eigen functions
-
-Using game from project 3 made without mushrooms, just possibilities of movement P1|P2 as data.
+4) Least-squares function approximation for time from solving linear problems: <br/>
+    Gauss,Gauss-Seidel,Jacobi algorithms as well as Eigen functions<br/>
+    Using game from project 3 made without mushrooms, just possibilities of movement P1|P2 as data.
 
