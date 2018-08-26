@@ -4,20 +4,20 @@ Numerical algorithms
 
 1) Approximation error comparison for different types of series additions in function sinus:
 
-a)Taylor series with summing from n = 1 / Ascending n
-b)Taylor series with summing from n = 15 / Descending n
-c)Taylor series with summing n = (n+1)/n
+<br/>a)Taylor series with summing from n = 1 / Ascending n
+<br/>b)Taylor series with summing from n = 15 / Descending n
+<br/>c)Taylor series with summing n = (n+1)/n
 
 
 
-2) Linear problems solved using custom matrix body class with operators and Gauss,Gauss-Seidel,Jacobi algorithms + Eigen library.
+<br/>2) Linear problems solved using custom matrix body class with operators and Gauss,Gauss-Seidel,Jacobi algorithms + Eigen library.
 
-Work in progress.
+<br/>Work in progress.
 
 
 
-3) Solving complex probability matrices with different algorithms with testing method MonteCarlo.
-
+<br/>3) Solving complex probability matrices with different algorithms with testing method MonteCarlo.
+<br/>
 Game is meant to create a board with places placed in such order  -N..0..N where P1 starts from -N and P2 starts from N. 
 Players gather shrooms throughout the game which are placed randomly on board with uniform distribution. 1 shroom can be on 1 field.
 Player who has more shrooms when one of the players steps on spot 0 wins.
