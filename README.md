@@ -3,13 +3,11 @@
 Numerical algorithms
 
 1) Approximation error comparison for different types of series additions in function sinus:
-
-<br/>a)Taylor series with summing from n = 1 / Ascending n
+<br/>     a)Taylor series with summing from n = 1 / Ascending n
 <br/>b)Taylor series with summing from n = 15 / Descending n
 <br/>c)Taylor series with summing n = (n+1)/n
 
-<br/>2) Linear problems solved using custom matrix body class with operators and Gauss,Gauss-Seidel,Jacobi algorithms + Eigen library.
-<br/>Work in progress.
+2) Linear problems solved using custom matrix body class with operators and Gauss,Gauss-Seidel,Jacobi algorithms + Eigen library.
 
 3) Solving complex probability matrices with different algorithms with testing method MonteCarlo.<br/>
 
